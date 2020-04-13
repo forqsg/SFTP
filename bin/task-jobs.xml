@@ -1,0 +1,61 @@
+﻿<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xmlns:tx="http://www.springframework.org/schema/tx"
+	xsi:schemaLocation="
+			http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.5.xsd
+			http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-2.5.xsd
+			http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-2.5.xsd">
+	<!--下载定时器 -->
+	<bean id="AutoService" class="com.gj.sftp.GJSFTP" />
+	<!-- 自动掉库存的配置 -->
+	<bean id="mainProcesStart"
+		class="org.springframework.scheduling.quartz.MethodInvokingJobDetailFactoryBean">
+		<property name="targetObject" ref="AutoService" />
+		<property name="targetMethod" value="down" />
+		<property name="concurrent" value="false" />
+	</bean>
+	<bean id="mainProcesStartTrigger" class="org.springframework.scheduling.quartz.CronTriggerBean">
+		<property name="jobDetail" ref="mainProcesStart" />
+		<property name="cronExpression">
+			<value>0 0/1 * * * ?</value>	
+		</property>
+	</bean>
+	<bean id="scheduler"
+		class="org.springframework.scheduling.quartz.SchedulerFactoryBean">
+		<property name="triggers">
+			<list>
+				<ref bean="mainProcesStartTrigger" />
+			</list>
+		</property>
+	</bean>
+
+	<!-- 上传定时器
+	<bean id="AutoService2" class="com.gj.sftp.GJSFTP" />
+	
+	<bean id="mainProcesStart2"
+		class="org.springframework.scheduling.quartz.MethodInvokingJobDetailFactoryBean">
+		<property name="targetObject" ref="AutoService2" />
+		<property name="targetMethod" value="up" />
+		<property name="concurrent" value="false" />
+	</bean>
+	<bean id="mainProcesStartTrigger2" class="org.springframework.scheduling.quartz.CronTriggerBean">
+		<property name="jobDetail" ref="mainProcesStart2" />
+		<property name="cronExpression">
+			<value>0 0/5 * * * ?</value>	
+		</property>
+	</bean>
+	<bean id="scheduler2"
+		class="org.springframework.scheduling.quartz.SchedulerFactoryBean">
+		<property name="triggers">
+			<list>
+				<ref bean="mainProcesStartTrigger2" />
+			</list>
+		</property>
+	</bean>
+-->
+
+
+
+
+</beans>

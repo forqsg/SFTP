@@ -1,0 +1,26 @@
+
+常用的有三种通道，即ChannelShell、ChannelExec、ChannelSftp，
+前两类用于执行命令(命令可以是shell语句，也可以是python  xxx.py)，
+后一种是用于上传下载文件。
+
+
+
+ChannelShell和ChannelExec的区别: 前者是交互式的，在channel.connect()之前，
+需要获取outputStream和inputStream，然后outputstream发送命令，
+从instream中读取命令的结果(注意，发送命令之后，读取命令之前要等待一会儿，一般需要写个循环判断，每秒读一次，根据实际情况设置xx秒超时退出)，
+但是有个坏处是，它执行就像登陆到vm上打印的信息一样，无论执行命令后的任何信息，它都会通过instream返回到客户端来，而你可能仅仅需要命令执行后的结果；
+于是就有了后者，非交互的，一次通道执行一条命令(当然如果你组合的好，也可以多条，反正就是一个字符串，一次交互，偷偷的告诉你，这一个python脚本，
+下发的命令去执行这个脚本，可以做好多好多事情哦)，好处是，它返回的信息非常干净，只返回标准输出，标准错误是不返回的，这时你可以利用python的print，
+正确时你print正确信息，错误时print错误信息，客户端都能获取到结果啦(因为print是标准输出)。
+
+使用步骤:
+
+1、new一个JSch对象；
+
+2、从JSch对象中获取Session，用于连接，并设置连接信息(
+根据SSH的连接原理，有两种方式，一是用户名+密码，
+					   二是用户名+privatekey+passphrase，第二种方式要在第1步设置，即jsch.addIdentity(xxx))；
+
+3、使用session对象调用opnChannel("xxx")打开通信信道，并连接；
+
+4、后面就是不同的channel，不同的操作啦。

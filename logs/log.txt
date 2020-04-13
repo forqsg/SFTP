@@ -1,0 +1,226 @@
+2019-10-24 23:20:19 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012259.xml 下载成功.
+2019-10-24 23:20:19 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012534.xml 下载成功.
+2019-10-24 23:20:19 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_201910160505_0000013377.xml 下载成功.
+2019-10-24 23:20:19 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/VMI/   本地地址=E:\GJ\IN\IN_VMI\,文件数量为3
+2019-10-24 23:20:20 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012347.xml 下载成功.
+2019-10-24 23:20:20 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012525.xml 下载成功.
+2019-10-24 23:20:20 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ORDEXE/   本地地址=E:\GJ\IN\IN_ORDEXE\,文件数量为2
+2019-10-24 23:20:20 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012255.xml 下载成功.
+2019-10-24 23:20:20 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012345.xml 下载成功.
+2019-10-24 23:20:21 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012532.xml 下载成功.
+2019-10-24 23:20:21 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ACK_ORDER/   本地地址=E:\GJ\IN\IN_ACK_ORDER\,文件数量为3
+2019-10-24 23:23:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012259.xml 下载成功.
+2019-10-24 23:23:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012534.xml 下载成功.
+2019-10-24 23:23:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_201910160505_0000013377.xml 下载成功.
+2019-10-24 23:23:02 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/VMI/   本地地址=E:\GJ\IN\IN_VMI\,文件数量为3
+2019-10-24 23:23:03 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012347.xml 下载成功.
+2019-10-24 23:23:03 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012525.xml 下载成功.
+2019-10-24 23:23:03 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ORDEXE/   本地地址=E:\GJ\IN\IN_ORDEXE\,文件数量为2
+2019-10-24 23:23:03 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012255.xml 下载成功.
+2019-10-24 23:23:04 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012345.xml 下载成功.
+2019-10-24 23:23:04 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012532.xml 下载成功.
+2019-10-24 23:23:04 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ACK_ORDER/   本地地址=E:\GJ\IN\IN_ACK_ORDER\,文件数量为3
+2019-10-24 23:58:42 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012259.xml 下载成功.
+2019-10-24 23:58:43 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012534.xml 下载成功.
+2019-10-24 23:58:43 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_201910160505_0000013377.xml 下载成功.
+2019-10-24 23:58:43 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/VMI/   本地地址=E:\GJ\IN\IN_VMI\,文件数量为3
+2019-10-24 23:58:43 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012347.xml 下载成功.
+2019-10-24 23:58:43 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012525.xml 下载成功.
+2019-10-24 23:58:43 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ORDEXE/   本地地址=E:\GJ\IN\IN_ORDEXE\,文件数量为2
+2019-10-24 23:58:44 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012255.xml 下载成功.
+2019-10-24 23:58:44 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012345.xml 下载成功.
+2019-10-24 23:58:44 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012532.xml 下载成功.
+2019-10-24 23:58:44 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ACK_ORDER/   本地地址=E:\GJ\IN\IN_ACK_ORDER\,文件数量为3
+2019-10-25 00:02:30 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012259.xml 下载成功.
+2019-10-25 00:02:31 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012534.xml 下载成功.
+2019-10-25 00:02:31 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_201910160505_0000013377.xml 下载成功.
+2019-10-25 00:02:31 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/VMI/   本地地址=E:\GJ\IN\IN_VMI\,文件数量为3
+2019-10-25 00:02:31 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012347.xml 下载成功.
+2019-10-25 00:02:32 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012525.xml 下载成功.
+2019-10-25 00:02:32 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ORDEXE/   本地地址=E:\GJ\IN\IN_ORDEXE\,文件数量为2
+2019-10-25 00:02:32 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012255.xml 下载成功.
+2019-10-25 00:02:32 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012345.xml 下载成功.
+2019-10-25 00:02:32 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012532.xml 下载成功.
+2019-10-25 00:02:32 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ACK_ORDER/   本地地址=E:\GJ\IN\IN_ACK_ORDER\,文件数量为3
+2019-10-25 00:02:33 [INFO][com.gj.sftp.OraDbUtil]:563 - 文件插入数据库成功！, 文件个数： 3
+2019-10-25 00:02:33 [INFO][com.gj.sftp.OraDbUtil]:637 - 文件插入数据库成功！, 文件个数： 2
+2019-10-25 00:02:33 [INFO][com.gj.sftp.OraDbUtil]:598 - 文件插入数据库成功！, 文件个数： 3
+2019-10-25 00:14:27 [INFO][org.springframework.context.support.FileSystemXmlApplicationContext]:495 - Refreshing org.springframework.context.support.FileSystemXmlApplicationContext@1b9e1916: startup date [Fri Oct 25 00:14:27 CST 2019]; root of context hierarchy
+2019-10-25 00:14:27 [INFO][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]:315 - Loading XML bean definitions from file [D:\Workspace\eclipse-workspace\SFTP\GJSFTP_V2.0\bin\task-jobs.xml]
+2019-10-25 00:14:27 [INFO][org.springframework.beans.factory.support.DefaultListableBeanFactory]:557 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5a61f5df: defining beans [AutoService,mainProcesStart,mainProcesStartTrigger,scheduler]; root of factory hierarchy
+2019-10-25 00:14:27 [INFO][org.quartz.core.QuartzScheduler]:209 - Quartz Scheduler v.1.6.0 created.
+2019-10-25 00:14:27 [INFO][org.quartz.simpl.RAMJobStore]:141 - RAMJobStore initialized.
+2019-10-25 00:14:27 [INFO][org.quartz.impl.StdSchedulerFactory]:1208 - Quartz scheduler 'scheduler' initialized from an externally provided properties instance.
+2019-10-25 00:14:27 [INFO][org.quartz.impl.StdSchedulerFactory]:1212 - Quartz scheduler version: 1.6.0
+2019-10-25 00:14:27 [INFO][org.quartz.core.QuartzScheduler]:2065 - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@33c7e1bb
+2019-10-25 00:14:27 [INFO][org.springframework.context.support.DefaultLifecycleProcessor]:330 - Starting beans in phase 2147483647
+2019-10-25 00:14:27 [INFO][org.springframework.scheduling.quartz.SchedulerFactoryBean]:648 - Starting Quartz Scheduler now
+2019-10-25 00:14:27 [INFO][org.quartz.core.QuartzScheduler]:455 - Scheduler scheduler_$_NON_CLUSTERED started.
+2019-10-25 00:14:30 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012259.xml 下载成功.
+2019-10-25 00:14:30 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012534.xml 下载成功.
+2019-10-25 00:14:30 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_201910160505_0000013377.xml 下载成功.
+2019-10-25 00:14:30 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/VMI/   本地地址=E:\GJ\IN\IN_VMI\,文件数量为3
+2019-10-25 00:14:31 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012347.xml 下载成功.
+2019-10-25 00:14:31 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012525.xml 下载成功.
+2019-10-25 00:14:31 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ORDEXE/   本地地址=E:\GJ\IN\IN_ORDEXE\,文件数量为2
+2019-10-25 00:14:31 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012255.xml 下载成功.
+2019-10-25 00:14:32 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012345.xml 下载成功.
+2019-10-25 00:14:32 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012532.xml 下载成功.
+2019-10-25 00:14:32 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ACK_ORDER/   本地地址=E:\GJ\IN\IN_ACK_ORDER\,文件数量为3
+2019-10-25 00:14:32 [INFO][com.gj.sftp.OraDbUtil]:552 - 文件插入数据库成功！, 文件个数： 3
+2019-10-25 00:14:32 [INFO][com.gj.sftp.OraDbUtil]:626 - 文件插入数据库成功！, 文件个数： 2
+2019-10-25 00:14:32 [INFO][com.gj.sftp.OraDbUtil]:587 - 文件插入数据库成功！, 文件个数： 3
+2019-10-25 00:15:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012259.xml 下载成功.
+2019-10-25 00:15:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012534.xml 下载成功.
+2019-10-25 00:15:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_201910160505_0000013377.xml 下载成功.
+2019-10-25 00:15:01 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/VMI/   本地地址=E:\GJ\IN\IN_VMI\,文件数量为3
+2019-10-25 00:15:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012347.xml 下载成功.
+2019-10-25 00:15:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012525.xml 下载成功.
+2019-10-25 00:15:02 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ORDEXE/   本地地址=E:\GJ\IN\IN_ORDEXE\,文件数量为2
+2019-10-25 00:15:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012255.xml 下载成功.
+2019-10-25 00:15:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012345.xml 下载成功.
+2019-10-25 00:15:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012532.xml 下载成功.
+2019-10-25 00:15:02 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ACK_ORDER/   本地地址=E:\GJ\IN\IN_ACK_ORDER\,文件数量为3
+2019-10-25 00:15:03 [INFO][com.gj.sftp.OraDbUtil]:552 - 文件插入数据库成功！, 文件个数： 3
+2019-10-25 00:15:03 [INFO][com.gj.sftp.OraDbUtil]:626 - 文件插入数据库成功！, 文件个数： 2
+2019-10-25 00:15:03 [INFO][com.gj.sftp.OraDbUtil]:587 - 文件插入数据库成功！, 文件个数： 3
+2019-10-25 00:16:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012259.xml 下载成功.
+2019-10-25 00:16:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012534.xml 下载成功.
+2019-10-25 00:16:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_201910160505_0000013377.xml 下载成功.
+2019-10-25 00:16:01 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/VMI/   本地地址=E:\GJ\IN\IN_VMI\,文件数量为3
+2019-10-25 00:16:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012347.xml 下载成功.
+2019-10-25 00:16:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012525.xml 下载成功.
+2019-10-25 00:16:02 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ORDEXE/   本地地址=E:\GJ\IN\IN_ORDEXE\,文件数量为2
+2019-10-25 00:16:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012255.xml 下载成功.
+2019-10-25 00:16:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012345.xml 下载成功.
+2019-10-25 00:16:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012532.xml 下载成功.
+2019-10-25 00:16:02 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ACK_ORDER/   本地地址=E:\GJ\IN\IN_ACK_ORDER\,文件数量为3
+2019-10-25 00:16:02 [INFO][com.gj.sftp.OraDbUtil]:552 - 文件插入数据库成功！, 文件个数： 3
+2019-10-25 00:16:02 [INFO][com.gj.sftp.OraDbUtil]:626 - 文件插入数据库成功！, 文件个数： 2
+2019-10-25 00:16:02 [INFO][com.gj.sftp.OraDbUtil]:587 - 文件插入数据库成功！, 文件个数： 3
+2019-10-25 00:17:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012259.xml 下载成功.
+2019-10-25 00:17:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012534.xml 下载成功.
+2019-10-25 00:17:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_201910160505_0000013377.xml 下载成功.
+2019-10-25 00:17:01 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/VMI/   本地地址=E:\GJ\IN\IN_VMI\,文件数量为3
+2019-10-25 00:17:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012347.xml 下载成功.
+2019-10-25 00:17:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012525.xml 下载成功.
+2019-10-25 00:17:02 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ORDEXE/   本地地址=E:\GJ\IN\IN_ORDEXE\,文件数量为2
+2019-10-25 00:17:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012255.xml 下载成功.
+2019-10-25 00:17:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012345.xml 下载成功.
+2019-10-25 00:17:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012532.xml 下载成功.
+2019-10-25 00:17:02 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ACK_ORDER/   本地地址=E:\GJ\IN\IN_ACK_ORDER\,文件数量为3
+2019-10-25 00:17:02 [INFO][com.gj.sftp.OraDbUtil]:552 - 文件插入数据库成功！, 文件个数： 3
+2019-10-25 00:17:02 [INFO][com.gj.sftp.OraDbUtil]:626 - 文件插入数据库成功！, 文件个数： 2
+2019-10-25 00:17:03 [INFO][com.gj.sftp.OraDbUtil]:587 - 文件插入数据库成功！, 文件个数： 3
+2019-10-25 00:18:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012259.xml 下载成功.
+2019-10-25 00:18:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012534.xml 下载成功.
+2019-10-25 00:18:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_201910160505_0000013377.xml 下载成功.
+2019-10-25 00:18:01 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/VMI/   本地地址=E:\GJ\IN\IN_VMI\,文件数量为3
+2019-10-25 00:18:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012347.xml 下载成功.
+2019-10-25 00:18:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012525.xml 下载成功.
+2019-10-25 00:18:02 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ORDEXE/   本地地址=E:\GJ\IN\IN_ORDEXE\,文件数量为2
+2019-10-25 00:18:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012255.xml 下载成功.
+2019-10-25 00:18:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012345.xml 下载成功.
+2019-10-25 00:18:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012532.xml 下载成功.
+2019-10-25 00:18:02 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ACK_ORDER/   本地地址=E:\GJ\IN\IN_ACK_ORDER\,文件数量为3
+2019-10-25 00:18:03 [INFO][com.gj.sftp.OraDbUtil]:552 - 文件插入数据库成功！, 文件个数： 3
+2019-10-25 00:18:03 [INFO][com.gj.sftp.OraDbUtil]:626 - 文件插入数据库成功！, 文件个数： 2
+2019-10-25 00:18:03 [INFO][com.gj.sftp.OraDbUtil]:587 - 文件插入数据库成功！, 文件个数： 3
+2019-10-25 00:19:00 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012259.xml 下载成功.
+2019-10-25 00:19:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012534.xml 下载成功.
+2019-10-25 00:19:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_201910160505_0000013377.xml 下载成功.
+2019-10-25 00:19:01 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/VMI/   本地地址=E:\GJ\IN\IN_VMI\,文件数量为3
+2019-10-25 00:19:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012347.xml 下载成功.
+2019-10-25 00:19:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012525.xml 下载成功.
+2019-10-25 00:19:02 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ORDEXE/   本地地址=E:\GJ\IN\IN_ORDEXE\,文件数量为2
+2019-10-25 00:19:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012255.xml 下载成功.
+2019-10-25 00:19:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012345.xml 下载成功.
+2019-10-25 00:19:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012532.xml 下载成功.
+2019-10-25 00:19:02 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ACK_ORDER/   本地地址=E:\GJ\IN\IN_ACK_ORDER\,文件数量为3
+2019-10-25 00:19:02 [INFO][com.gj.sftp.OraDbUtil]:552 - 文件插入数据库成功！, 文件个数： 3
+2019-10-25 00:19:02 [INFO][com.gj.sftp.OraDbUtil]:626 - 文件插入数据库成功！, 文件个数： 2
+2019-10-25 00:19:02 [INFO][com.gj.sftp.OraDbUtil]:587 - 文件插入数据库成功！, 文件个数： 3
+2019-10-25 00:20:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012259.xml 下载成功.
+2019-10-25 00:20:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012534.xml 下载成功.
+2019-10-25 00:20:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_201910160505_0000013377.xml 下载成功.
+2019-10-25 00:20:01 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/VMI/   本地地址=E:\GJ\IN\IN_VMI\,文件数量为3
+2019-10-25 00:20:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012347.xml 下载成功.
+2019-10-25 00:20:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012525.xml 下载成功.
+2019-10-25 00:20:02 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ORDEXE/   本地地址=E:\GJ\IN\IN_ORDEXE\,文件数量为2
+2019-10-25 00:20:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012255.xml 下载成功.
+2019-10-25 00:20:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012345.xml 下载成功.
+2019-10-25 00:20:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012532.xml 下载成功.
+2019-10-25 00:20:02 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ACK_ORDER/   本地地址=E:\GJ\IN\IN_ACK_ORDER\,文件数量为3
+2019-10-25 00:20:03 [INFO][com.gj.sftp.OraDbUtil]:552 - 文件插入数据库成功！, 文件个数： 3
+2019-10-25 00:20:03 [INFO][com.gj.sftp.OraDbUtil]:626 - 文件插入数据库成功！, 文件个数： 2
+2019-10-25 00:20:03 [INFO][com.gj.sftp.OraDbUtil]:587 - 文件插入数据库成功！, 文件个数： 3
+2019-10-25 00:21:00 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012259.xml 下载成功.
+2019-10-25 00:21:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012534.xml 下载成功.
+2019-10-25 00:21:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_201910160505_0000013377.xml 下载成功.
+2019-10-25 00:21:01 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/VMI/   本地地址=E:\GJ\IN\IN_VMI\,文件数量为3
+2019-10-25 00:21:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012347.xml 下载成功.
+2019-10-25 00:21:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012525.xml 下载成功.
+2019-10-25 00:21:01 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ORDEXE/   本地地址=E:\GJ\IN\IN_ORDEXE\,文件数量为2
+2019-10-25 00:21:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012255.xml 下载成功.
+2019-10-25 00:21:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012345.xml 下载成功.
+2019-10-25 00:21:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012532.xml 下载成功.
+2019-10-25 00:21:02 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ACK_ORDER/   本地地址=E:\GJ\IN\IN_ACK_ORDER\,文件数量为3
+2019-10-25 00:21:02 [INFO][com.gj.sftp.OraDbUtil]:552 - 文件插入数据库成功！, 文件个数： 3
+2019-10-25 00:21:02 [INFO][com.gj.sftp.OraDbUtil]:626 - 文件插入数据库成功！, 文件个数： 2
+2019-10-25 00:21:03 [INFO][com.gj.sftp.OraDbUtil]:587 - 文件插入数据库成功！, 文件个数： 3
+2019-10-25 00:22:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012259.xml 下载成功.
+2019-10-25 00:22:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012534.xml 下载成功.
+2019-10-25 00:22:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_201910160505_0000013377.xml 下载成功.
+2019-10-25 00:22:01 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/VMI/   本地地址=E:\GJ\IN\IN_VMI\,文件数量为3
+2019-10-25 00:22:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012347.xml 下载成功.
+2019-10-25 00:22:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012525.xml 下载成功.
+2019-10-25 00:22:02 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ORDEXE/   本地地址=E:\GJ\IN\IN_ORDEXE\,文件数量为2
+2019-10-25 00:22:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012255.xml 下载成功.
+2019-10-25 00:22:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012345.xml 下载成功.
+2019-10-25 00:22:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012532.xml 下载成功.
+2019-10-25 00:22:02 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ACK_ORDER/   本地地址=E:\GJ\IN\IN_ACK_ORDER\,文件数量为3
+2019-10-25 00:22:02 [INFO][com.gj.sftp.OraDbUtil]:552 - 文件插入数据库成功！, 文件个数： 3
+2019-10-25 00:22:02 [INFO][com.gj.sftp.OraDbUtil]:626 - 文件插入数据库成功！, 文件个数： 2
+2019-10-25 00:22:02 [INFO][com.gj.sftp.OraDbUtil]:587 - 文件插入数据库成功！, 文件个数： 3
+2019-10-25 00:23:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012259.xml 下载成功.
+2019-10-25 00:23:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012534.xml 下载成功.
+2019-10-25 00:23:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_201910160505_0000013377.xml 下载成功.
+2019-10-25 00:23:01 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/VMI/   本地地址=E:\GJ\IN\IN_VMI\,文件数量为3
+2019-10-25 00:23:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012347.xml 下载成功.
+2019-10-25 00:23:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012525.xml 下载成功.
+2019-10-25 00:23:02 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ORDEXE/   本地地址=E:\GJ\IN\IN_ORDEXE\,文件数量为2
+2019-10-25 00:23:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012255.xml 下载成功.
+2019-10-25 00:23:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012345.xml 下载成功.
+2019-10-25 00:23:03 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012532.xml 下载成功.
+2019-10-25 00:23:03 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ACK_ORDER/   本地地址=E:\GJ\IN\IN_ACK_ORDER\,文件数量为3
+2019-10-25 00:23:03 [INFO][com.gj.sftp.OraDbUtil]:552 - 文件插入数据库成功！, 文件个数： 3
+2019-10-25 00:23:03 [INFO][com.gj.sftp.OraDbUtil]:626 - 文件插入数据库成功！, 文件个数： 2
+2019-10-25 00:23:03 [INFO][com.gj.sftp.OraDbUtil]:587 - 文件插入数据库成功！, 文件个数： 3
+2019-10-25 00:24:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012259.xml 下载成功.
+2019-10-25 00:24:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012534.xml 下载成功.
+2019-10-25 00:24:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_201910160505_0000013377.xml 下载成功.
+2019-10-25 00:24:01 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/VMI/   本地地址=E:\GJ\IN\IN_VMI\,文件数量为3
+2019-10-25 00:24:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012347.xml 下载成功.
+2019-10-25 00:24:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012525.xml 下载成功.
+2019-10-25 00:24:02 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ORDEXE/   本地地址=E:\GJ\IN\IN_ORDEXE\,文件数量为2
+2019-10-25 00:24:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012255.xml 下载成功.
+2019-10-25 00:24:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012345.xml 下载成功.
+2019-10-25 00:24:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012532.xml 下载成功.
+2019-10-25 00:24:02 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ACK_ORDER/   本地地址=E:\GJ\IN\IN_ACK_ORDER\,文件数量为3
+2019-10-25 00:24:02 [INFO][com.gj.sftp.OraDbUtil]:552 - 文件插入数据库成功！, 文件个数： 3
+2019-10-25 00:24:02 [INFO][com.gj.sftp.OraDbUtil]:626 - 文件插入数据库成功！, 文件个数： 2
+2019-10-25 00:24:03 [INFO][com.gj.sftp.OraDbUtil]:587 - 文件插入数据库成功！, 文件个数： 3
+2019-10-25 00:25:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012259.xml 下载成功.
+2019-10-25 00:25:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_0000012534.xml 下载成功.
+2019-10-25 00:25:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:VMI_CM_GJ_201910160505_0000013377.xml 下载成功.
+2019-10-25 00:25:01 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/VMI/   本地地址=E:\GJ\IN\IN_VMI\,文件数量为3
+2019-10-25 00:25:01 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012347.xml 下载成功.
+2019-10-25 00:25:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ORDER_EXE_CM_GJ_0000012525.xml 下载成功.
+2019-10-25 00:25:02 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ORDEXE/   本地地址=E:\GJ\IN\IN_ORDEXE\,文件数量为2
+2019-10-25 00:25:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012255.xml 下载成功.
+2019-10-25 00:25:02 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012345.xml 下载成功.
+2019-10-25 00:25:03 [INFO][com.gj.sftp.GJSFTP]:315 - 远程文件:ACK_ORDER_CM_GJ_0000012532.xml 下载成功.
+2019-10-25 00:25:03 [INFO][com.gj.sftp.GJSFTP]:286 - 已成功下载文件，远程地址=/OUT/ACK_ORDER/   本地地址=E:\GJ\IN\IN_ACK_ORDER\,文件数量为3
+2019-10-25 00:25:03 [INFO][com.gj.sftp.OraDbUtil]:552 - 文件插入数据库成功！, 文件个数： 3
+2019-10-25 00:25:03 [INFO][com.gj.sftp.OraDbUtil]:626 - 文件插入数据库成功！, 文件个数： 2
+2019-10-25 00:25:03 [INFO][com.gj.sftp.OraDbUtil]:587 - 文件插入数据库成功！, 文件个数： 3
